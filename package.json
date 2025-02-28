@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://vicode321.github.io/Chinandega",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit --skipLibCheck && vite build",
